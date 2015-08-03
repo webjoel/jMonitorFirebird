@@ -4,12 +4,12 @@ Monitor **Firebird 2.1+** databases using any operating system.
 
 __Features:__
 
-- Manage registration databases;
 - Monitor connections;
 - Monitor transactions;
 - Monitor slow SQL statements;
 - Cancel connections;
 - Cancel SQL statements;
+- Manage registration databases;
 - Manage recorded logs.
 
 ## Installation
