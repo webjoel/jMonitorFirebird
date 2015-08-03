@@ -24,6 +24,7 @@ Copy the files from the folder "dist" to any folder on your computer.
 java -jar "jMonitorFirebird.jar"
 ```
 2 - Register database in "File/Registrations" menu;
+
 3 - Click in "Connect" button and start monitoring.
 
 Developed in Java using the NetBeans IDE.
