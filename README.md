@@ -27,6 +27,8 @@ java -jar "jMonitorFirebird.jar"
 
 3 - Click in "Connect" button and start monitoring.
 
+## About
+
 Developed in Java using the NetBeans IDE.
 
 ![Java Logo](http://tekeye.biz/wp-content/uploads/2013/07/java_powered.png)
