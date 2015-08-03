@@ -15,7 +15,7 @@ __Features:__
 ## Installation
 
 ```bash
-Copy the files from the folder **"dist"** to any folder on your computer.
+Copy the files from the folder "dist" to any folder on your computer.
 ```
 
 ## Usage
