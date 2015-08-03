@@ -26,4 +26,5 @@ java -jar "jMonitorFirebird.jar"
 
 Developed in Java using the NetBeans IDE.
 
-![Java Logo](http://dev.cooperati.com.br/wp-content/uploads/sites/7/2014/04/Java_Header.png) ![NetBeans Logo](https://netbeans.org/images_www/visual-guidelines/NB-logo-single.jpg)
+![Java Logo](http://dev.cooperati.com.br/wp-content/uploads/sites/7/2014/04/Java_Header.png)
+![NetBeans Logo](https://netbeans.org/images_www/visual-guidelines/NB-logo-single.jpg)
