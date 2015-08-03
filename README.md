@@ -12,4 +12,10 @@ __Features:__
 - Cancel SQL statements;
 - Manage recorded logs.
 
+## Installation
+
+```bash
+Copy the files from the folder "dist" to any folder on your computer
+```
+
 Developed in Java using the NetBeans IDE.
