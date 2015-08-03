@@ -19,10 +19,12 @@ Copy the files from the folder "dist" to any folder on your computer.
 ```
 
 ## Usage
-Double click in file "jMonitorFirebird.jar" or by Command Line:
+1 - Double click in file "jMonitorFirebird.jar" or by Command Line:
 ```bash
 java -jar "jMonitorFirebird.jar"
 ```
+2 - Register database in "File/Registrations" menu;
+3 - Click in "Connect" button and start monitoring.
 
 Developed in Java using the NetBeans IDE.
 
