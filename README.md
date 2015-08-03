@@ -1,6 +1,6 @@
 ![Firebird Logo](https://www.totaljs.com/exports/firebird-logo.png)
 # jMonitorFirebird
-Monitor **Firebird 2.1+** databases using any operating system.
+Monitor **Firebird SQL Database 2.1+** using any operating system.
 
 __Features:__
 
