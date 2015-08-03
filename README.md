@@ -18,4 +18,11 @@ __Features:__
 Copy the files from the folder "dist" to any folder on your computer
 ```
 
+## Usage
+
+Command Line:
+```bash
+java -jar "jMonitorFirebird.jar"
+```
+
 Developed in Java using the NetBeans IDE.
