@@ -19,8 +19,7 @@ Copy the files from the folder "dist" to any folder on your computer
 ```
 
 ## Usage
-
-Command Line:
+Double click in file "jMonitorFirebird.jar" or by Command Line:
 ```bash
 java -jar "jMonitorFirebird.jar"
 ```
